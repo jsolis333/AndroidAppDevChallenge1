@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RandomActivity</string>
+    <string name="bt_activityAButton">Activity A Button</string>
+    <string name="bt_activityBButton">Activity B Button</string>
+
+    <string name="tv_randomNumberA">1</string>
+    <string name="tv_randomNumberB">2</string>
+</resources>
